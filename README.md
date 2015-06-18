@@ -1,4 +1,6 @@
 # WebAssembly 
+The bytecode for the internet
+
 You are looking for [webassembly on github](https://github.com/WebAssembly/design)
  on [TechCrunch](http://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/) or on [HackerNews](https://hn.algolia.com/?query=webassembly&sort=byPopularity&prefix&page=0&dateRange=all&type=story) << WebAssembly, webasm, wasm, webass
 
