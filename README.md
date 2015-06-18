@@ -7,5 +7,5 @@ You are looking for [webassembly on github](https://github.com/WebAssembly/desig
 The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
 
-Compile Ruby, Python, C++ -> LLVM -> [asm.js](https://en.wikipedia.org/wiki/Asm.js) -> binary.wasm and load it with native speed in future browsers, or in current browsers via polyfill.
+Compile Ruby, [Python](https://github.com/replit/repl.it), C++ -> LLVM -> [asm.js](https://en.wikipedia.org/wiki/Asm.js) -> binary.wasm and load it with native speed in future browsers, or in current browsers via polyfill.
 You can [start playing with webassembly TODAY](https://github.com/pannous/polyfill-prototype-1)
