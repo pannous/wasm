@@ -4,3 +4,5 @@ You are looking for [webassembly on github](https://github.com/WebAssembly/desig
 
  PS: The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
+
+PS2: You can start playing with it [TODAY](https://github.com/pannous/polyfill-prototype-1)
