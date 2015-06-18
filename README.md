@@ -9,5 +9,5 @@ The whole purpose of this repository is to save you one more Google search;
 
 Huge drawback: asm.js (currently) is designed as a target for languages that manually manage memory allocation and release -- like C/C++. It cannot currently handle languages with garbage collection semantics, silly as that may seem given that it is JavaScript which is a garbage collected runtime.
 
-Compile [Ruby](https://github.com/opal/opal), [Python](https://github.com/replit/repl.it), C++ -> LLVM -> [asm.js](https://en.wikipedia.org/wiki/Asm.js) -> binary.wasm and load it with native speed in future browsers, or in current browsers via polyfill.
+Compile [Ruby](http://ruby.dj/), [Python](https://github.com/replit/repl.it), C++ -> LLVM -> [asm.js](https://en.wikipedia.org/wiki/Asm.js) -> binary.wasm and load it with native speed in future browsers, or in current browsers via polyfill.
 You can [start playing with webassembly TODAY](https://github.com/pannous/polyfill-prototype-1)
