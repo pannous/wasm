@@ -7,6 +7,9 @@ Or on [wiki](https://en.wikipedia.org/wiki/WebAssembly) or on [HackerNews](https
 The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
 
+Play [**impressive demo**](http://webassembly.org/demo/AngryBots/) in your browser now.
+http://webassembly.org/demo/Tanks/
+
 WebAssembly is *not* a binary bytecode format for standard js. 
 There are reasons against overly specialized [bytecode](http://www.2ality.com/2011/01/what-is-javascript-equivalent-of-java.html). However all browsers could and should come with a compressed javascript AST reader. Someone please specify the 'jast' file format.
 
