@@ -1,7 +1,7 @@
 # WebAssembly 
 The bytecode for the internet
 
-You are probably looking for *[webassembly](https://github.com/WebAssembly/design)* on github.
+You are probably looking for [***webassembly***](https://github.com/WebAssembly/design)* on github.
 Or on [wiki](https://en.wikipedia.org/wiki/WebAssembly) or on [HackerNews](https://hn.algolia.com/?query=webassembly&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 The whole purpose of this repository is to save you one more Google search;
