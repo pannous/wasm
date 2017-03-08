@@ -7,8 +7,7 @@ Or on [wiki](https://en.wikipedia.org/wiki/WebAssembly) or on [HackerNews](https
 The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
 
-Play [**impressive demo**](http://webassembly.org/demo/AngryBots/) in your browser now.
-http://webassembly.org/demo/Tanks/
+Play an [**impressive demo**](http://webassembly.org/demo/AngryBots/) of native wasm in your browser now.
 
 To generate binary wasm, the new 'bytecode for the web' see [binaryen](https://github.com/WebAssembly/binaryen), [wabt](https://github.com/WebAssembly/wabt) or [emscripten](https://github.com/kripken/emscripten). Soon you can just use your default clang to compile c to wasm (right now you need the latest versions of llvm/lcc to do so)!
 
