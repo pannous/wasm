@@ -4,6 +4,8 @@ The new bytecode for the internet
 You are probably looking for [***webassembly***](https://github.com/WebAssembly/design) on github.
 Or on [wiki](https://en.wikipedia.org/wiki/WebAssembly) or on [HackerNews](https://hn.algolia.com/?query=webassembly&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
+Check out the [kwasm Hello World](https://wasdk.github.io/WasmFiddle/?5z6xr#)
+
 The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
 
