@@ -9,7 +9,7 @@ Check out the [wasm Hello World](https://wasdk.github.io/WasmFiddle/?5z6xr#)
 The whole purpose of this repository is to save you one more Google search;
   it can be removed once github creates an alias webasm->webassembly ;)
 
-Play an [**impressive demo**](http://webassembly.org/demo/AngryBots/) of native wasm in your browser now. (Update they removed the very cool AngryBots and replaced it with a sucking Tank demo).
+Play an [**impressive demo**](https://files.unity3d.com/jonas/AngryBots/) of native wasm in your browser now.
 Or a new [even more impressive demo](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) if you have a fast machine.
 
 To generate binary wasm yourself, see [binaryen](https://github.com/WebAssembly/binaryen), [wabt](https://github.com/WebAssembly/wabt) or [emscripten](https://github.com/kripken/emscripten). Soon you can just use your default clang to compile c to wasm (right now you need the latest versions of llvm/lcc to do so)!
